@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RowingProject</string>
+    <string name="classN">Введите класс лодки</string>
+    <string name="distance">Введите дистанцию</string>
+
+    <string name="time">Введите время</string>
+    <string name="date">Введите дату</string>
+    <string name="ave500m">Введите средние 500м</string>
+    <string name="temp">Введите темп</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="first_fragment_label" />
+</resources>
